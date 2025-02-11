@@ -1,0 +1,9 @@
+﻿  InitShader.cpp
+  main.cpp
+D:\code TH\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(134,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(134,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(134,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(139,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(140,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating Code...
+  OpenGL.vcxproj -> D:\code TH\BaiTH8_Hinhlapphuong_chieusang\Debug\OpenGL.exe

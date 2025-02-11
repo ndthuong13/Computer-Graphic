@@ -1,0 +1,17 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Table.cpp
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\Table\GLSLExperiment\mat.h(581,5): warning C4566: character represented by universal-character-name '\u1EF3' cannot be represented in the current code page (1252)
+  (compiling source file 'Table.cpp')
+  
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\Table\GLSLExperiment\mat.h(770,5): warning C4566: character represented by universal-character-name '\u1EF3' cannot be represented in the current code page (1252)
+  (compiling source file 'Table.cpp')
+  
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\Table\GLSLExperiment\mat.h(777,5): warning C4566: character represented by universal-character-name '\u1EF3' cannot be represented in the current code page (1252)
+  (compiling source file 'Table.cpp')
+  
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\Table\GLSLExperiment\mat.h(784,5): warning C4566: character represented by universal-character-name '\u1EF3' cannot be represented in the current code page (1252)
+  (compiling source file 'Table.cpp')
+  
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\Table\GLSLExperiment\Table.cpp(196,23): warning C4305: '=': truncation from 'double' to 'GLfloat'
+Table.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  GLSLExperiment.vcxproj -> E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\Table\Debug\GLSLExperiment.exe

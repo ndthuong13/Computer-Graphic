@@ -1,0 +1,29 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  CanhCua.cpp
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\mat.h(581,5): warning C4566: character represented by universal-character-name '\u1EF3' cannot be represented in the current code page (1252)
+  (compiling source file 'CanhCua.cpp')
+  
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\mat.h(770,5): warning C4566: character represented by universal-character-name '\u1EF3' cannot be represented in the current code page (1252)
+  (compiling source file 'CanhCua.cpp')
+  
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\mat.h(777,5): warning C4566: character represented by universal-character-name '\u1EF3' cannot be represented in the current code page (1252)
+  (compiling source file 'CanhCua.cpp')
+  
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\mat.h(784,5): warning C4566: character represented by universal-character-name '\u1EF3' cannot be represented in the current code page (1252)
+  (compiling source file 'CanhCua.cpp')
+  
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\CanhCua.cpp(126,31): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\CanhCua.cpp(126,60): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\CanhCua.cpp(126,54): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\CanhCua.cpp(126,49): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\CanhCua.cpp(131,54): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\CanhCua.cpp(131,45): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\CanhCua.cpp(136,32): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\CanhCua.cpp(141,32): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\CanhCua.cpp(153,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\CanhCua.cpp(154,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\CanhCua.cpp(203,12): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\CanhCua.cpp(207,12): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\GLSLExperiment\CanhCua.cpp(211,12): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+CanhCua.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  GLSLExperiment.vcxproj -> E:\CNDPT01-K17\Kỳ 4 {CNDPT}\DHMT\DHMT\CanhCua\Debug\GLSLExperiment.exe

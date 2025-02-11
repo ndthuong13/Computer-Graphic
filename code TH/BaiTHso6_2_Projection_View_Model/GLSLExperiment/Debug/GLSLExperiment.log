@@ -1,0 +1,19 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  InitShader.cpp
+  example1.cpp
+D:\code TH\BaiTHso6_2_Projection_View_Model\GLSLExperiment\example1.cpp(32,24): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTHso6_2_Projection_View_Model\GLSLExperiment\example1.cpp(174,17): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTHso6_2_Projection_View_Model\GLSLExperiment\example1.cpp(174,27): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTHso6_2_Projection_View_Model\GLSLExperiment\example1.cpp(175,17): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTHso6_2_Projection_View_Model\GLSLExperiment\example1.cpp(175,27): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTHso6_2_Projection_View_Model\GLSLExperiment\example1.cpp(176,22): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTHso6_2_Projection_View_Model\GLSLExperiment\example1.cpp(176,34): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTHso6_2_Projection_View_Model\GLSLExperiment\example1.cpp(177,22): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTHso6_2_Projection_View_Model\GLSLExperiment\example1.cpp(177,34): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTHso6_2_Projection_View_Model\GLSLExperiment\example1.cpp(178,21): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTHso6_2_Projection_View_Model\GLSLExperiment\example1.cpp(178,34): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTHso6_2_Projection_View_Model\GLSLExperiment\example1.cpp(179,21): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\code TH\BaiTHso6_2_Projection_View_Model\GLSLExperiment\example1.cpp(179,34): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+  Generating Code...
+example1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  GLSLExperiment.vcxproj -> D:\code TH\BaiTHso6_2_Projection_View_Model\Debug\GLSLExperiment.exe
